@@ -4,4 +4,4 @@
 
 -[10 finger writing](https://www.m5bilisim.com/tr/on-parmak/dersler/q-klavye/)
 
-- [BTK Akademi](https://www.btkakademi.gov.tr/)
+-[BTK Akademi](https://www.btkakademi.gov.tr/)
